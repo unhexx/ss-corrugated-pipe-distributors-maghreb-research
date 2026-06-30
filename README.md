@@ -1,27 +1,35 @@
-**DISTRIBUTORS OF CORRUGATED / FLEXIBLE STAINLESS STEEL PIPE - MAGHREB RESEARCH (FINAL)**
+# Дистрибьюторы гофрированной / гибкой трубы из нержавеющей стали — Магриб (Северная Африка)
 
-See research_state/ for full files and logs.
+**Финальный отчёт (только Средний / Высокий уровень соответствия)**  
+Дата: 2026-06-30  
+Страны: Марокко, Тунис, Египет, Ливия, Алжир
 
-**Final report (Medium + High only)**
+## Цель
+Поиск надёжных каналов сбыта (дистрибьюторов, импортёров, гроссистов) для продукции собственного производства гофрированной трубы из нержавеющей стали. Производители (конкуренты) исключены.
 
-Full details and Excel in attached / generated artifacts.
+## Ключевые результаты
+- Всего квалифицированных позиций (Med + High): 25 (репрезентативный список в файлах)
+- Приоритетные сильные кандидаты (Высокий): Nortec (MA/TN/DZ via RSA), Myriad (Swagelok DZ), UMIR (DZ), FFMI/Kenovel/Divinox (MA), General Metal / SAME (TN), Hydraulic Egypt / IEC / Kayan (EG), ART LIBYA / Jabel Oil (LY).
+- Полный список и детали — в прилагаемом .xlsx и .csv (сгенерировано локально).
 
-Key strong verified distributors (High):
-- Nortec channels (Morocco, Tunisia, Algeria via RSA)
-- Myriad Distribution (Algeria, Swagelok agent)
-- UMIR (Algeria)
-- FFMI / Kenovel / Divinox (Morocco)
-- General Metal / Sté SAME (Tunisia)
-- Hydraulic Egypt / IEC / Kayan (Egypt)
-- ART LIBYA / Jabel Oil Services (Libya)
+## Методология (кратко)
+- Многоцикловые параллельные исследования (5 агентов на цикл) с web_search + browse verification.
+- Ключевые слова: FR/EN/AR, "distributeur/grossiste/importateur tuyau flexible / ondulé / âme ondulée inox", Swagelok/Nortec partners, O&G suppliers.
+- Обязательная верификация сайтов компаний (роль дистрибьютора + наличие продуктов).
+- Исключены: производители, общие traders без flexible inox, платформы ритейла.
 
-**Generated 2026-06-30**
+## Рекомендации по outreach
+1. Приоритет: официальные партнёры премиум-брендов (Nortec, Swagelok) — уже доказали интерес к flexible inox.
+2. Для каждого: отправить коммерческое предложение с тех. характеристиками (давление, температуры, диаметры, сертификаты).
+3. Для Ливии/Египта: учитывать O&G проекты и тендеры (NOC, местные EPC).
+4. Дополнительно: местные торговые палаты, NAPEC (Алжир), отраслевые выставки.
 
-Repo contains:
+## Файлы
 - research_state/qualified_distributors.csv
-- research_state/Maghreb_Corrugated_SS_Pipe_Distributors_FINAL_2026-06.xlsx (local generation recommended for full formatting)
-- Logs and intermediate research files
+- research_state/Maghreb_Corrugated_SS_Pipe_Distributors_FINAL_2026-06.xlsx (локально)
+- research_state/ (логи циклов)
 
-Full methodology in xlsx summary sheet.
+## Disclaimer
+Данные из открытых источников. Актуальность и наличие — проверяйте напрямую. Рынок нишевый.
 
-**DISCLAIMER**: Open-source research. Verify directly with companies. Excludes all manufacturers.
+Репозиторий создан для публикации результатов глубокого исследования.

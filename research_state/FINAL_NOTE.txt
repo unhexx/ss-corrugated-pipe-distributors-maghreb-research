@@ -1,0 +1,9 @@
+Final report XLSX and full data generated locally in the source workspace.
+
+To get complete formatted Excel (with hyperlinks, filters, summary sheet):
+1. Clone this repo
+2. Or request the xlsx from the researcher (generated with openpyxl following professional standards).
+
+All listed companies verified via site browse for distributor role + corrugated/flexible inox evidence.
+
+Generated 2026-06-30.
